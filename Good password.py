@@ -4,7 +4,7 @@ def is_password_good(password):
     if len(txtlist)>= 8 and txt.lower() != txt and txt.upper() != txt:
         print("ok")
     else:
-        print("no")
+        print("NO")
 
 # считываем данные
 txt = input()
