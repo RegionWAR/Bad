@@ -1,0 +1,8 @@
+h = int(input())
+h1 = str(h // 1000)
+h2 = str(h % 1000 // 100)
+h3 = str(h % 100 // 10)
+h4 = str(h % 10)
+left = int(h1 + h2)
+right = int(h4 + h3)
+print((right - left) + 1)
