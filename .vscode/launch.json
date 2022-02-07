@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Swicht",
+            "request": "launch",
+            "mainClass": "Swicht",
+            "projectName": "glowing-octo-guide_fe48ddab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_4",
+            "request": "launch",
+            "mainClass": "Main_4",
+            "projectName": "glowing-octo-guide_fe48ddab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_4",
+            "request": "launch",
+            "mainClass": "Main_3",
+            "projectName": "glowing-octo-guide_fe48ddab"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_3",
             "request": "launch",
             "mainClass": "Main_3",
