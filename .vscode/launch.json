@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_3",
+            "request": "launch",
+            "mainClass": "Main_3",
+            "projectName": "glowing-octo-guide_fe48ddab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_2",
+            "request": "launch",
+            "mainClass": "Main_2",
+            "projectName": "glowing-octo-guide_fe48ddab"
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "Main",
