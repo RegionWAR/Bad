@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Test_8",
+            "request": "launch",
+            "mainClass": "Test_8",
+            "projectName": "glowing-octo-guide_fe48ddab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test_7",
+            "request": "launch",
+            "mainClass": "Test_7",
+            "projectName": "glowing-octo-guide_fe48ddab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test_6",
+            "request": "launch",
+            "mainClass": "Test_6",
+            "projectName": "glowing-octo-guide_fe48ddab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test_3",
+            "request": "launch",
+            "mainClass": "Test_3",
+            "projectName": "glowing-octo-guide_fe48ddab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test_2",
+            "request": "launch",
+            "mainClass": "Test_2",
+            "projectName": "glowing-octo-guide_fe48ddab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test_1",
+            "request": "launch",
+            "mainClass": "Test_1",
+            "projectName": "glowing-octo-guide_fe48ddab"
+        },
+        {
+            "type": "java",
             "name": "Launch Swicht",
             "request": "launch",
             "mainClass": "Swicht",
