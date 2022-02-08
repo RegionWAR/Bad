@@ -1,3 +1,5 @@
+package JS;
+
 import java.util.Scanner;
 
 //import javax.swing.plaf.basic.BasicInternalFrameTitlePane.MaximizeAction;

@@ -1,3 +1,4 @@
+package JS;
 
 /*На вход подаются координаты точки x, y. Определите, попадает ли точка в заштрихованную область. https://ucarecdn.com/498cc2c7-ccab-4ba2-88d6-36cdb68f2680/*/
 import java.util.Scanner;

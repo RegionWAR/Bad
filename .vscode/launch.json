@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Zad_3",
+            "request": "launch",
+            "mainClass": "JS.While.Zad_3",
+            "projectName": "glowing-octo-guide_fe48ddab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Zad_2",
+            "request": "launch",
+            "mainClass": "JS.While.Zad_2",
+            "projectName": "glowing-octo-guide_fe48ddab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Zad_1",
+            "request": "launch",
+            "mainClass": "JS.While.Zad_1",
+            "projectName": "glowing-octo-guide_fe48ddab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Breack_continue",
+            "request": "launch",
+            "mainClass": "JS.While.Breack_continue",
+            "projectName": "glowing-octo-guide_fe48ddab"
+        },
+        {
+            "type": "java",
             "name": "Launch Test_8",
             "request": "launch",
             "mainClass": "Test_8",

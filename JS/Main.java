@@ -1,3 +1,5 @@
+package JS;
+
 import java.util.Scanner;
 
 class MySolution {
